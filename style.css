@@ -15,15 +15,15 @@ header {
     background-color: #ebebeb;
     text-align: center;
     padding-top: 25px;
-    margin: 10px;
+    margin: 15px 10px 10px 10px;
 }
 
 nav {
-    height: 50px;
+    height: 40px;
     background-color: #ebebeb;
     text-align:center;
-    padding-top: 10px;
-    margin: 10px;
+    padding-top: 25px;
+    margin: 15px 10px 5px 10px;
 }
 
 section {
@@ -74,7 +74,7 @@ p {
 }
 footer {
     background-color: #ebebeb;
-    margin: 10px;
+    margin: 5px 10px 10px 10px;
     float: left;
     width: 940px;
     height: 60px;
